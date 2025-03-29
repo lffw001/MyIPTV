@@ -217,6 +217,30 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
 m3u地址,http://adultiptv.net/lists/all.m3u
+livecams,http://live.adultiptv.net/livecams.m3u8
+bigdick,http://live.adultiptv.net/bigdick.m3u8
+bigtits,http://live.adultiptv.net/bigtits.m3u8
+fetish,http://live.adultiptv.net/fetish.m3u8
+pornstar,http://live.adultiptv.net/pornstar.m3u8
+bigass,http://live.adultiptv.net/bigass.m3u8
+interracial,http://live.adultiptv.net/interracial.m3u8
+latina,http://live.adultiptv.net/latina.m3u8
+pov,http://live.adultiptv.net/pov.m3u8
+blowjob,http://live.adultiptv.net/blowjob.m3u8
+teen,http://live.adultiptv.net/teen.m3u8
+hardcore,http://live.adultiptv.net/hardcore.m3u8
+cuckold,http://live.adultiptv.net/cuckold.m3u8
+threesome,http://live.adultiptv.net/threesome.m3u8
+russian,http://live.adultiptv.net/russian.m3u8
+lesbian,http://live.adultiptv.net/lesbian.m3u8
+rough,http://live.adultiptv.net/rough.m3u8
+gangbang,http://live.adultiptv.net/gangbang.m3u8
+anal,http://live.adultiptv.net/anal.m3u8
+compilation,http://live.adultiptv.net/compilation.m3u8
+brunette,http://live.adultiptv.net/brunette.m3u8
+blonde,http://live.adultiptv.net/blonde.m3u8
+gay,http://live.adultiptv.net/gay.m3u8
+asian,http://live.adultiptv.net/asian.m3u8
 其他频道见 http://adultiptv.net/
 
 
