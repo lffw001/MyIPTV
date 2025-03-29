@@ -218,5 +218,5 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
 
 其他频道见 http://adultiptv.net/
-m3u地址 http://adultiptv.net/lists/all.m3u
+m3u地址,http://adultiptv.net/lists/all.m3u
 
